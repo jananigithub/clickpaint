@@ -1,0 +1,7 @@
+ Click Painting:
+
+Project Description:
+              
+              Language used	:	Java	
+              Description	:	This is a painting software developed using Java Swing in Eclipse aimed to provide friendly environment to differently abled children, where the different options such as paint, save, erase, zoom are mastered using single click ,with the help of multithreading.
+
